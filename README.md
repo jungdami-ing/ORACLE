@@ -10,3 +10,4 @@
 |2021-09-22|오라클 SQL과 PL/SQL을 다루는 기술|[2장 01. 데이터베이스 객체의 개요](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-2%EC%9E%A5-01-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B0%9D%EC%B2%B4%EC%9D%98-%EA%B0%9C%EC%9A%94)
 |2021-09-23|오라클 SQL과 PL/SQL을 다루는 기술|[2장 02. 테이블](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-2%EC%9E%A5-02-%ED%85%8C%EC%9D%B4%EB%B8%94)
 |2021-09-24|오라클 SQL과 PL/SQL을 다루는 기술|[2장 03. 뷰](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-2%EC%9E%A5-03-%EB%B7%B0)
+|2021-09-25|오라클 SQL과 PL/SQL을 다루는 기술|[2장 04. 인덱스](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-2%EC%9E%A5-04-%EC%9D%B8%EB%8D%B1%EC%8A%A4)
