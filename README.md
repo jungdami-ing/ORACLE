@@ -16,4 +16,4 @@
 |2021-09-28|오라클 SQL과 PL/SQL을 다루는 기술|[2장 07. 파티션 테이블](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-2%EC%9E%A5-07-%ED%8C%8C%ED%8B%B0%EC%85%98-%ED%85%8C%EC%9D%B4%EB%B8%94)
 |2021-09-29|오라클 SQL과 PL/SQL을 다루는 기술|[3장 01. SELECT문](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-3%EC%9E%A5-01-SELECT%EB%AC%B8)
 |2021-09-30|오라클 SQL과 PL/SQL을 다루는 기술|[3장 02. INSERT문](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-3%EC%9E%A5-02-INSERT%EB%AC%B8)
-|2021-10-01|오라클 SQL과 PL/SQL을 다루는 기술|[3장 02. UPDATE문](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-3%EC%9E%A5-02-UPDATE%EB%AC%B8)
+|2021-10-01|오라클 SQL과 PL/SQL을 다루는 기술|[3장 03. UPDATE문](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-3%EC%9E%A5-02-UPDATE%EB%AC%B8)
