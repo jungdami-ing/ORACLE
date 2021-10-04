@@ -19,3 +19,4 @@
 |2021-10-01|오라클 SQL과 PL/SQL을 다루는 기술|[3장 03. UPDATE문](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-3%EC%9E%A5-02-UPDATE%EB%AC%B8)
 |2021-10-02|오라클 SQL과 PL/SQL을 다루는 기술|[3장 04. MERGE문](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-3%EC%9E%A5-04-MERGE%EB%AC%B8?category=995651)
 |2021-10-03|오라클 SQL과 PL/SQL을 다루는 기술|[3장 05. DELETE문](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-3%EC%9E%A5-05-DELETE%EB%AC%B8)
+|2021-10-04|오라클 SQL과 PL/SQL을 다루는 기술|[3장 06. COMMIT과 ROLLBACK, TRUNCATE](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-3%EC%9E%A5-06-COMMIT%EA%B3%BC-ROLLBACK-TRUNCATE)
