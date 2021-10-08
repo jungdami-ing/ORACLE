@@ -23,3 +23,4 @@
 |2021-10-05|오라클 SQL과 PL/SQL을 다루는 기술|[3장 07. 의사컬럼](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-3%EC%9E%A5-07-%EC%9D%98%EC%82%AC%EC%BB%AC%EB%9F%BC?category=995651)
 |2021-10-06|오라클 SQL과 PL/SQL을 다루는 기술|[3장 08. 연산자](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-3%EC%9E%A5-08-%EC%97%B0%EC%82%B0%EC%9E%90?category=995651)
 |2021-10-07|오라클 SQL과 PL/SQL을 다루는 기술|[3장 09. 표현식](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-3%EC%9E%A5-09-%ED%91%9C%ED%98%84%EC%8B%9D?category=995651)
+|2021-10-08|오라클 SQL과 PL/SQL을 다루는 기술|[3장 10. 조건식](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-3%EC%9E%A5-10-%EC%A1%B0%EA%B1%B4%EC%8B%9D?category=995651)
