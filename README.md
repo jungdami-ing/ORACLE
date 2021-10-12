@@ -27,3 +27,4 @@
 |2021-10-09|오라클 SQL과 PL/SQL을 다루는 기술|[4장 01. 숫자 함수](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-4%EC%9E%A5-01-%EC%88%AB%EC%9E%90-%ED%95%A8%EC%88%98)
 |2021-10-10|오라클 SQL과 PL/SQL을 다루는 기술|[4장 02. 문자 함수](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-4%EC%9E%A5-02-%EB%AC%B8%EC%9E%90-%ED%95%A8%EC%88%98)
 |2021-10-11|오라클 SQL과 PL/SQL을 다루는 기술|[4장 03. 날짜 함수](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-4%EC%9E%A5-03-%EB%82%A0%EC%A7%9C-%ED%95%A8%EC%88%98)
+|2021-10-12|오라클 SQL과 PL/SQL을 다루는 기술|[4장 04. 변환 함수](https://jungdami-ing.tistory.com/m/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-4%EC%9E%A5-04-%EB%B3%80%ED%99%98-%ED%95%A8%EC%88%98)
