@@ -30,4 +30,5 @@
 |2021-10-12|오라클 SQL과 PL/SQL을 다루는 기술|[4장 04. 변환 함수](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-4%EC%9E%A5-04-%EB%B3%80%ED%99%98-%ED%95%A8%EC%88%98)
 |2021-10-13|오라클 SQL과 PL/SQL을 다루는 기술|[4장 05. NULL 관련 함수](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-4%EC%9E%A5-05-NULL-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98)
 |2021-10-14|오라클 SQL과 PL/SQL을 다루는 기술|[4장 06. 기타 함수](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-4%EC%9E%A5-06-%EA%B8%B0%ED%83%80-%ED%95%A8%EC%88%98)
-|2021-10-15|오라클 SQL과 PL/SQL을 다루는 기술|[5장 01. 기본 집계 함수](https://jungdami-ing.tistory.com/m/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-5%EC%9E%A5-01-%EA%B8%B0%EB%B3%B8-%EC%A7%91%EA%B3%84-%ED%95%A8%EC%88%98)
+|2021-10-15|오라클 SQL과 PL/SQL을 다루는 기술|[5장 01. 기본 집계 함수](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-5%EC%9E%A5-01-%EA%B8%B0%EB%B3%B8-%EC%A7%91%EA%B3%84-%ED%95%A8%EC%88%98)
+|2021-10-16|오라클 SQL과 PL/SQL을 다루는 기술|[5장 02. GROUP BY 절과 HAVING 절](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-5%EC%9E%A5-02-GROUP-BY-%EC%A0%88%EA%B3%BC-HAVING-%EC%A0%88)
