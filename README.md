@@ -34,3 +34,4 @@
 |2021-10-16|오라클 SQL과 PL/SQL을 다루는 기술|[5장 02. GROUP BY 절과 HAVING 절](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-5%EC%9E%A5-02-GROUP-BY-%EC%A0%88%EA%B3%BC-HAVING-%EC%A0%88)
 |2021-10-17|오라클 SQL과 PL/SQL을 다루는 기술|[5장 03. ROLLUP 절과 CUBE 절](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-5%EC%9E%A5-03-ROLLUP-%EC%A0%88%EA%B3%BC-CUBE-%EC%A0%88)
 |2021-10-18|오라클 SQL과 PL/SQL을 다루는 기술|[5장 04. 집합 연산자 - UNION](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-5%EC%9E%A5-04-%EC%A7%91%ED%95%A9-%EC%97%B0%EC%82%B0%EC%9E%90-UNION)
+|2021-10-19|오라클 SQL과 PL/SQL을 다루는 기술|[5장 04. 집합 연산자 - UNION ALL](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-5%EC%9E%A5-04-%EC%A7%91%ED%95%A9-%EC%97%B0%EC%82%B0%EC%9E%90-UNION-ALL)
