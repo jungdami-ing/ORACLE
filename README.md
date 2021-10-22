@@ -37,3 +37,4 @@
 |2021-10-19|오라클 SQL과 PL/SQL을 다루는 기술|[5장 04. 집합 연산자 - UNION ALL](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-5%EC%9E%A5-04-%EC%A7%91%ED%95%A9-%EC%97%B0%EC%82%B0%EC%9E%90-UNION-ALL)
 |2021-10-20|오라클 SQL과 PL/SQL을 다루는 기술|[5장 04. 집합 연산자 - INTERSECT](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-5%EC%9E%A5-04-%EC%A7%91%ED%95%A9-%EC%97%B0%EC%82%B0%EC%9E%90-INTERSECT)
 |2021-10-21|오라클 SQL과 PL/SQL을 다루는 기술|[5장 04. 집합 연산자 - MINUS](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-5%EC%9E%A5-04-%EC%A7%91%ED%95%A9-%EC%97%B0%EC%82%B0%EC%9E%90-MINUS)
+|2021-10-22|오라클 SQL과 PL/SQL을 다루는 기술|[5장 04. 집합 연산자 - 집합 연산자의 제한사항](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-5%EC%9E%A5-04-%EC%A7%91%ED%95%A9-%EC%97%B0%EC%82%B0%EC%9E%90-%EC%A7%91%ED%95%A9-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EC%A0%9C%ED%95%9C%EC%82%AC%ED%95%AD)
