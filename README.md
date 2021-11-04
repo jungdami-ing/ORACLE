@@ -49,3 +49,4 @@
 |2021-10-31|오라클 SQL과 PL/SQL을 다루는 기술|[6장 03. ANSI 조인 - ANSI 내부 조인](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-6%EC%9E%A5-03-ANSI-%EC%A1%B0%EC%9D%B8-ANDI-%EB%82%B4%EB%B6%80-%EC%A1%B0%EC%9D%B8)
 |2021-11-02|오라클 SQL과 PL/SQL을 다루는 기술|[6장 03. ANSI 조인 - ANSI 외부 조인](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-6%EC%9E%A5-03-ANSI-%EC%A1%B0%EC%9D%B8-ANDI-%EC%99%B8%EB%B6%80-%EC%A1%B0%EC%9D%B8)
 |2021-11-03|오라클 SQL과 PL/SQL을 다루는 기술|[6장 03. ANSI 조인 - CROSS 조인](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-6%EC%9E%A5-03-ANSI-%EC%A1%B0%EC%9D%B8-ANDI-%EC%99%B8%EB%B6%80-%EC%A1%B0%EC%9D%B8)
+|2021-11-04|오라클 SQL과 PL/SQL을 다루는 기술|[6장 03. ANSI 조인 - FULL OUTER 조인](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-6%EC%9E%A5-03-ANSI-%EC%A1%B0%EC%9D%B8-FULL-OUTER-%EC%A1%B0%EC%9D%B8)
