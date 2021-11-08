@@ -53,3 +53,4 @@
 |2021-11-05|오라클 SQL과 PL/SQL을 다루는 기술|[6장 04. 서브쿼리 - 연관성 없는 서브 쿼리](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-6%EC%9E%A5-04-%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC-%EC%97%B0%EA%B4%80%EC%84%B1-%EC%97%86%EB%8A%94-%EC%84%9C%EB%B8%8C-%EC%BF%BC%EB%A6%AC)
 |2021-11-06|오라클 SQL과 PL/SQL을 다루는 기술|[6장 04. 서브쿼리 - 연관성 있는 서브 쿼리](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-6%EC%9E%A5-04-%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC-%EC%97%B0%EA%B4%80%EC%84%B1-%EC%9E%88%EB%8A%94-%EC%84%9C%EB%B8%8C-%EC%BF%BC%EB%A6%AC)
 |2021-11-07|오라클 SQL과 PL/SQL을 다루는 기술|[6장 04. 서브쿼리 - 인라인 뷰](https://jungdami-ing.tistory.com/entry/오라클-6장-04-서브쿼리-인라인-뷰)
+|2021-11-08|오라클 SQL과 PL/SQL을 다루는 기술|[7장 01. 계층형 쿼리 - 계층형 구조](https://jungdami-ing.tistory.com/entry/오라클-6장-04-서브쿼리-인라인-뷰)
