@@ -55,3 +55,4 @@
 |2021-11-07|오라클 SQL과 PL/SQL을 다루는 기술|[6장 04. 서브쿼리 - 인라인 뷰](https://jungdami-ing.tistory.com/entry/오라클-6장-04-서브쿼리-인라인-뷰)
 |2021-11-08|오라클 SQL과 PL/SQL을 다루는 기술|[7장 01. 계층형 쿼리 - 계층형 구조](https://jungdami-ing.tistory.com/entry/오라클-6장-04-서브쿼리-인라인-뷰)
 |2021-11-09|오라클 SQL과 PL/SQL을 다루는 기술|[7장 01. 계층형 쿼리 - 계층형 쿼리](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-7%EC%9E%A5-01-%EA%B3%84%EC%B8%B5%ED%98%95-%EC%BF%BC%EB%A6%AC-%EA%B3%84%EC%B8%B5%ED%98%95-%EC%BF%BC%EB%A6%AC)
+|2021-11-10|오라클 SQL과 PL/SQL을 다루는 기술|[7장 01. 계층형 쿼리 - 계층형 쿼리 심화학습](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-7%EC%9E%A5-01-%EA%B3%84%EC%B8%B5%ED%98%95-%EC%BF%BC%EB%A6%AC-%EA%B3%84%EC%B8%B5%ED%98%95-%EC%BF%BC%EB%A6%AC-%EC%8B%AC%ED%99%94%ED%95%99%EC%8A%B5)
