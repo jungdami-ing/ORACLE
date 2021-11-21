@@ -66,3 +66,4 @@
 |2021-11-18|오라클 SQL과 PL/SQL을 다루는 기술|[7장 04. 다중 테이블 INSERT - 여러 개의 INSERT문을 한 번에 처리](https://jungdami-ing.tistory.com/entry/오라클-7장-04-다중-테이블-INSERT-여러-개의-INSERT문을-한-번에-처리)
 |2021-11-19|오라클 SQL과 PL/SQL을 다루는 기술|[7장 04. 다중 테이블 INSERT - 조건에 따른 다중 INSERT](https://jungdami-ing.tistory.com/entry/오라클-7장-04-다중-테이블-INSERT-조건에-따른-다중-INSERT)
 |2021-11-20|오라클 SQL과 PL/SQL을 다루는 기술|[8장 01. PL/SQL 기본 구조 - 블록](https://jungdami-ing.tistory.com/entry/오라클-8장-01-PLSQL-기본-구조-블록)
+|2021-11-21|오라클 SQL과 PL/SQL을 다루는 기술|[8장 01. PL/SQL 기본 구조 - 익명 블록](https://jungdami-ing.tistory.com/entry/오라클-8장-01-PLSQL-기본-구조-익명-블록)
