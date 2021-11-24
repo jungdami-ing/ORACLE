@@ -69,3 +69,4 @@
 |2021-11-21|오라클 SQL과 PL/SQL을 다루는 기술|[8장 01. PL/SQL 기본 구조 - 익명 블록](https://jungdami-ing.tistory.com/entry/오라클-8장-01-PLSQL-기본-구조-익명-블록)
 |2021-11-22|오라클 SQL과 PL/SQL을 다루는 기술|[8장 02. PL/SQL 구성요소 - 변수](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-8%EC%9E%A5-02-PLSQL-%EA%B5%AC%EC%84%B1%EC%9A%94%EC%86%8C-%EB%B3%80%EC%88%98)
 |2021-11-23|오라클 SQL과 PL/SQL을 다루는 기술|[8장 02. PL/SQL 구성요소 - 상수](https://jungdami-ing.tistory.com/entry/오라클-8장-02-PLSQL-구성요소-상수)
+|2021-11-24|오라클 SQL과 PL/SQL을 다루는 기술|[8장 02. PL/SQL 구성요소 - 연산자](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-8%EC%9E%A5-02-PLSQL-%EA%B5%AC%EC%84%B1%EC%9A%94%EC%86%8C-%EC%97%B0%EC%82%B0%EC%9E%90)
