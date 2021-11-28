@@ -73,3 +73,4 @@
 |2021-11-25|오라클 SQL과 PL/SQL을 다루는 기술|[8장 02. PL/SQL 구성요소 - 주석](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-8%EC%9E%A5-02-PLSQL-%EA%B5%AC%EC%84%B1%EC%9A%94%EC%86%8C-%EC%A3%BC%EC%84%9D)
 |2021-11-26|오라클 SQL과 PL/SQL을 다루는 기술|[8장 02. PL/SQL 구성요소 - DML문](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-8%EC%9E%A5-02-PLSQL-%EA%B5%AC%EC%84%B1%EC%9A%94%EC%86%8C-DML%EB%AC%B8)
 |2021-11-27|오라클 SQL과 PL/SQL을 다루는 기술|[8장 02. PL/SQL 구성요소 - PRAGMA 키워드](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-8%EC%9E%A5-02-PLSQL-%EA%B5%AC%EC%84%B1%EC%9A%94%EC%86%8C-PRAGMA-%ED%82%A4%EC%9B%8C%EB%93%9C)
+|2021-11-28|오라클 SQL과 PL/SQL을 다루는 기술|[8장 02. PL/SQL 구성요소 - 라벨](https://jungdami-ing.tistory.com/entry/오라클-8장-02-PLSQL-구성요소-라벨)
