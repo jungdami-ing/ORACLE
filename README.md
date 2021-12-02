@@ -77,3 +77,4 @@
 |2021-11-29|오라클 SQL과 PL/SQL을 다루는 기술|[9장 01. PL/SQL 제어문 - IF문](https://jungdami-ing.tistory.com/entry/오라클-9장-01-PLSQL-제어문-IF문)
 |2021-11-30|오라클 SQL과 PL/SQL을 다루는 기술|[9장 01. PL/SQL 제어문 - CASE문](https://jungdami-ing.tistory.com/entry/오라클-9장-01-PLSQL-제어문-CASE문)
 |2021-12-01|오라클 SQL과 PL/SQL을 다루는 기술|[9장 01. PL/SQL 제어문 - LOOP문](https://jungdami-ing.tistory.com/entry/오라클-9장-01-PLSQL-제어문-LOOP문)
+|2021-12-02|오라클 SQL과 PL/SQL을 다루는 기술|[9장 01. PL/SQL 제어문 - WHILE문](https://jungdami-ing.tistory.com/entry/오라클-9장-01-PLSQL-제어문-WHILE문)
