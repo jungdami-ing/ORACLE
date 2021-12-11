@@ -81,3 +81,4 @@
 |2021-12-07|오라클 SQL과 PL/SQL을 다루는 기술|[9장 01. PL/SQL 제어문 - FOR문](https://jungdami-ing.tistory.com/entry/오라클-9장-01-PLSQL-제어문-FOR문)
 |2021-12-08|오라클 SQL과 PL/SQL을 다루는 기술|[9장 01. PL/SQL 제어문 - CONTINUE문](https://jungdami-ing.tistory.com/entry/오라클-9장-01-PLSQL-제어문-CONTINUE문)
 |2021-12-10|오라클 SQL과 PL/SQL을 다루는 기술|[9장 01. PL/SQL 제어문 - GOTO문](https://jungdami-ing.tistory.com/entry/오라클-9장-01-PLSQL-제어문-GOTO문)
+|2021-12-11|오라클 SQL과 PL/SQL을 다루는 기술|[9장 01. PL/SQL 제어문 - NULL문](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-9%EC%9E%A5-01-PLSQL-%EC%A0%9C%EC%96%B4%EB%AC%B8-NULL%EB%AC%B8)
