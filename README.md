@@ -91,3 +91,4 @@
 |2021-12-18|오라클 SQL과 PL/SQL을 다루는 기술|[9장 03. 프로시저 - RETURN문](https://jungdami-ing.tistory.com/entry/오라클-9장-03-프로시저-RETURN문)
 |2021-12-19|오라클 SQL과 PL/SQL을 다루는 기술|[10장 01. 예외처리 - 예외처리 구문](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-10%EC%9E%A5-01-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-%EA%B5%AC%EB%AC%B8)
 |2021-12-20|오라클 SQL과 PL/SQL을 다루는 기술|[10장 01. 예외처리 - SQLCODE, SQLERRM을 이용한 예외정보 참조](https://jungdami-ing.tistory.com/entry/오라클-10장-01-예외처리-SQLCODE-SQLERRM을-이용한-예외정보-참조)
+|2021-12-21|오라클 SQL과 PL/SQL을 다루는 기술|[10장 01. 예외처리 - 시스템 예외](https://jungdami-ing.tistory.com/entry/오라클-10장-01-예외처리-시스템-예외)
