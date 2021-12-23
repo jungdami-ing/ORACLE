@@ -93,3 +93,4 @@
 |2021-12-20|오라클 SQL과 PL/SQL을 다루는 기술|[10장 01. 예외처리 - SQLCODE, SQLERRM을 이용한 예외정보 참조](https://jungdami-ing.tistory.com/entry/오라클-10장-01-예외처리-SQLCODE-SQLERRM을-이용한-예외정보-참조)
 |2021-12-21|오라클 SQL과 PL/SQL을 다루는 기술|[10장 01. 예외처리 - 시스템 예외](https://jungdami-ing.tistory.com/entry/오라클-10장-01-예외처리-시스템-예외)
 |2021-12-22|오라클 SQL과 PL/SQL을 다루는 기술|[10장 01. 예외처리 - 사용자 정의 예외](https://jungdami-ing.tistory.com/entry/오라클-10장-01-예외처리-사용자-정의-예외)
+|2021-12-23|오라클 SQL과 PL/SQL을 다루는 기술|[10장 01. 예외처리 - 시스템 예외에 이름 부여하기](https://jungdami-ing.tistory.com/entry/오라클-10장-01-예외처리-시스템-예외에-이름-부여하기)
