@@ -94,4 +94,5 @@
 |2021-12-21|오라클 SQL과 PL/SQL을 다루는 기술|[10장 01. 예외처리 - 시스템 예외](https://jungdami-ing.tistory.com/entry/오라클-10장-01-예외처리-시스템-예외)
 |2021-12-22|오라클 SQL과 PL/SQL을 다루는 기술|[10장 01. 예외처리 - 사용자 정의 예외](https://jungdami-ing.tistory.com/entry/오라클-10장-01-예외처리-사용자-정의-예외)
 |2021-12-23|오라클 SQL과 PL/SQL을 다루는 기술|[10장 01. 예외처리 - 시스템 예외에 이름 부여하기](https://jungdami-ing.tistory.com/entry/오라클-10장-01-예외처리-시스템-예외에-이름-부여하기)
-|2021-12-24|오라클 SQL과 PL/SQL을 다루는 기술|[10장 01. 예외처리 - RAISE와 RAISE_APPLICATION_ERROR](https://jungdami-ing.tistory.com/entry/오라클-10장-01-예외처리-RAISE와-RAISEAPPLICATIONERROR)
+|2021-12-24|오라클 SQL과 PL/SQL을 다루는 기술|[10장 01. 예외처리 - RAISE와 RAISE_APPLICATION_ERROR](https://jungdami-ing.tistory.com/entry/오라클-10장-01-예외처리-RAISE와-|2021-12-24|오라클 SQL과 PL/SQL을 다루는 기술|[10장 01. 예외처리 - RAISE와 RAISE_APPLICATION_ERROR](https://jungdami-ing.tistory.com/entry/오라클-10장-01-예외처리-RAISE와-RAISEAPPLICATIONERROR)
+|2021-12-25|오라클 SQL과 PL/SQL을 다루는 기술|[10장 02. 트랜잭션 - COMMIT과 ROLLBACK](https://jungdami-ing.tistory.com/entry/오라클-10장-02-트랜잭션-COMMIT과-ROLLBACK)
