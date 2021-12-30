@@ -99,3 +99,4 @@
 |2021-12-26|오라클 SQL과 PL/SQL을 다루는 기술|[10장 02. 트랜잭션 - SAVEPOINT](https://jungdami-ing.tistory.com/entry/오라클-10장-02-트랜잭션-SAVEPOINT)
 |2021-12-27|오라클 SQL과 PL/SQL을 다루는 기술|[11장 01. 커서 - 묵시적 커서와 커서 속성](https://jungdami-ing.tistory.com/entry/오라클-11장-01-커서-묵시적-커서와-커서-속성)
 |2021-12-29|오라클 SQL과 PL/SQL을 다루는 기술|[11장 01. 커서 - 명시적 커서](https://jungdami-ing.tistory.com/entry/오라클-11장-01-커서-명시적-커서)
+|2021-12-30|오라클 SQL과 PL/SQL을 다루는 기술|[11장 01. 커서 - 커서와 FOR문](https://jungdami-ing.tistory.com/entry/오라클-11장-01-커서-커서와-FOR문)
