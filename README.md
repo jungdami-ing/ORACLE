@@ -100,4 +100,5 @@
 |2021-12-27|오라클 SQL과 PL/SQL을 다루는 기술|[11장 01. 커서 - 묵시적 커서와 커서 속성](https://jungdami-ing.tistory.com/entry/오라클-11장-01-커서-묵시적-커서와-커서-속성)
 |2021-12-29|오라클 SQL과 PL/SQL을 다루는 기술|[11장 01. 커서 - 명시적 커서](https://jungdami-ing.tistory.com/entry/오라클-11장-01-커서-명시적-커서)
 |2021-12-30|오라클 SQL과 PL/SQL을 다루는 기술|[11장 01. 커서 - 커서와 FOR문](https://jungdami-ing.tistory.com/entry/오라클-11장-01-커서-커서와-FOR문)
-|2021-12-31|오라클 SQL과 PL/SQL을 다루는 기술|[11장 01. 커서 - 커서변수](https://jungdami-ing.tistory.com/entry/오라클-11장-01-커서-커서-변수)
+|2021-12-31|오라클 SQL과 PL/SQL을 다루는 기술|[11장 01. 커서 - 커서 변수](https://jungdami-ing.tistory.com/entry/오라클-11장-01-커서-커서-변수)
+|2022-01-01|오라클 SQL과 PL/SQL을 다루는 기술|[11장 01. 커서 - 커서 표현식](https://jungdami-ing.tistory.com/entry/오라클-11장-01-커서-커서-표현식)
