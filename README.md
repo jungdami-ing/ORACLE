@@ -105,3 +105,4 @@
 |2022-01-02|오라클 SQL과 PL/SQL을 다루는 기술|[11장 02. 레코드 - 사용자 정의형 레코드](https://jungdami-ing.tistory.com/entry/오라클-11장-02-레코드-사용자-정의형-레코드)
 |2022-01-03|오라클 SQL과 PL/SQL을 다루는 기술|[11장 02. 레코드 - 테이블형 레코드](https://jungdami-ing.tistory.com/entry/오라클-11장-02-레코드-테이블형-레코드)
 |2022-01-04|오라클 SQL과 PL/SQL을 다루는 기술|[11장 02. 레코드 - 커서형 레코드](https://jungdami-ing.tistory.com/entry/오라클-11장-02-레코드-커서형-레코드)
+|2022-01-10|오라클 SQL과 PL/SQL을 다루는 기술|[11장 02. 레코드 - 중첩 레코드](https://jungdami-ing.tistory.com/entry/오라클-11장-02-레코드-중첩-레코드)
