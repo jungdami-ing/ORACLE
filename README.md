@@ -108,3 +108,4 @@
 |2022-01-10|오라클 SQL과 PL/SQL을 다루는 기술|[11장 02. 레코드 - 중첩 레코드](https://jungdami-ing.tistory.com/entry/오라클-11장-02-레코드-중첩-레코드)
 |2022-01-12|오라클 SQL과 PL/SQL을 다루는 기술|[11장 03. 컬렉션 - 컬렉션의 종류](https://jungdami-ing.tistory.com/entry/오라클-11장-03-컬렉션-컬렉션의-종류)
 |2022-01-13|오라클 SQL과 PL/SQL을 다루는 기술|[11장 03. 컬렉션 - 컬렉션 메소드](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-11%EC%9E%A5-03-%EC%BB%AC%EB%A0%89%EC%85%98-%EC%BB%AC%EB%A0%89%EC%85%98-%EB%A9%94%EC%86%8C%EB%93%9C)
+|2022-01-16|오라클 SQL과 PL/SQL을 다루는 기술|[11장 03. 컬렉션 - 사용자 정의 데이터 타입](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-11%EC%9E%A5-03-%EC%BB%AC%EB%A0%89%EC%85%98-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%A0%95%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85)
