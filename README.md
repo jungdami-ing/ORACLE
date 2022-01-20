@@ -112,3 +112,4 @@
 |2022-01-17|오라클 SQL과 PL/SQL을 다루는 기술|[11장 03. 컬렉션 - 컬렉션 타입별 차이점과 그 활용법](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-11%EC%9E%A5-03-%EC%BB%AC%EB%A0%89%EC%85%98-%EC%BB%AC%EB%A0%89%EC%85%98-%ED%83%80%EC%9E%85%EB%B3%84-%EC%B0%A8%EC%9D%B4%EC%A0%90%EA%B3%BC-%EA%B7%B8-%ED%99%9C%EC%9A%A9%EB%B2%95)
 |2022-01-18|오라클 SQL과 PL/SQL을 다루는 기술|[11장 03. 컬렉션 - 컬렉션 타입별 비교](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-11%EC%9E%A5-03-%EC%BB%AC%EB%A0%89%EC%85%98-%EC%BB%AC%EB%A0%89%EC%85%98-%ED%83%80%EC%9E%85%EB%B3%84-%EB%B9%84%EA%B5%90)
 |2022-01-19|오라클 SQL과 PL/SQL을 다루는 기술|[12장 01. 패키지](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-12%EC%9E%A5-01-%ED%8C%A8%ED%82%A4%EC%A7%80)
+|2022-01-20|오라클 SQL과 PL/SQL을 다루는 기술|[12장 02. 패키지 해부 - 패키지 구조](https://jungdami-ing.tistory.com/entry/오라클-12장-02-패키지-해부-패키지-구조)
