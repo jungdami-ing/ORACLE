@@ -118,3 +118,4 @@
 |2022-01-23|오라클 SQL과 PL/SQL을 다루는 기술|[12장 03. 패키지 데이터 - 상수와 변수 선언](https://jungdami-ing.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-12%EC%9E%A5-03-%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%83%81%EC%88%98%EC%99%80-%EB%B3%80%EC%88%98-%EC%84%A0%EC%96%B8)
 |2022-01-24|오라클 SQL과 PL/SQL을 다루는 기술|[12장 03. 패키지 데이터 - 커서](https://jungdami-ing.tistory.com/entry/오라클-12장-03-패키지-데이터-커서)
 |2022-01-25|오라클 SQL과 PL/SQL을 다루는 기술|[12장 03. 패키지 데이터 - 레코드와 컬렉션](https://jungdami-ing.tistory.com/entry/오라클-12장-03-패키지-데이터-레코드와-컬렉션)
+|2022-01-26|오라클 SQL과 PL/SQL을 다루는 기술|[12장 04. 기타 패키지 특징 - PRAGMA SERIALLY_REUSABLE 옵션](https://jungdami-ing.tistory.com/entry/오라클-12장-04-기타-패키지-특징-PRAGMA-SERIALLYREUSABLE-옵션)
